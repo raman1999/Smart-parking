@@ -69,6 +69,10 @@ form input.pass {
 form label {
    color: #b2dfdb !important;
 }
+form label {
+  color: #b2dfdb !important;
+}
+
 
 ::-webkit-input-placeholder { color: #ccc; text-transform: uppercase; }
 ::-moz-placeholder { color: #ccc; text-transform: uppercase; }
